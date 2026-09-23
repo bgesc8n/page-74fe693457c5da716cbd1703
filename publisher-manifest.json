@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "bd504390c577987ee494eb4b",
+  "owner": "bgesc8n",
+  "repo": "page-74fe693457c5da716cbd1703",
+  "title": "tadm科学基地(tadm)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "74fe693457c5da716cbd1703",
+      "a": "tadm科学基地(tadm)",
+      "b": "2027官方最新地址导航",
+      "entity": "tadm科学基地(tadm)",
+      "brand": "tadm科学基地(tadm)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "346eee46cc5f48265e831edd26f86dafb38f4d877eddc982e58daf0c86f5119c",
+      "content": {
+        "primary_entity": "tadm科学基地(tadm)",
+        "keyword1": "tadm科学基地(tadm)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，导入订阅后即可开始使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐，导入订阅，开始稳定连接。",
+          "AI_CLOSING_TITLE": "开始使用tadm科学基地(tadm)",
+          "AI_DESCRIPTION": "，面向手机、平板与电脑多种设备，提供基础版、旗舰版和团队版三档订阅，分别匹配轻量浏览、流媒体与游戏加速、多设备团队协作等不同需求。每档套餐在流量、在线设备数和节点池上依次提升，用户可按月或按年付费，在客户端导入订阅后即可使用。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路类型三个角度挑选合适的订阅。",
+          "AI_FEATURES_TITLE": "套餐与设备匹配",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB流量，支持3台设备同时在线，适合轻度浏览与日常使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月300GB流量、5台设备，含IPLC专线与原生流媒体解锁，适合游戏和追剧。",
+          "AI_FEATURE_TEXT_3": "团队版每月1000GB流量、20台设备，提供VIP高带宽节点与企业定制路由。",
+          "AI_FEATURE_TITLE_1": "轻量订阅",
+          "AI_FEATURE_TITLE_2": "进阶体验",
+          "AI_FEATURE_TITLE_3": "多人共享",
+          "AI_GUIDE_INTRO": "按需求选套餐、核对设备与订阅周期，再在客户端导入订阅配置。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_HERO_INTRO": "tadm科学基地(tadm)提供按月与按年订阅的海外加速服务，覆盖基础版、旗舰版和团队版三档套餐，满足不同设备数量与流量需求。用户可先确认使用设备与所需流量，再选择对应套餐并完成订阅配置。",
+          "AI_HERO_SUBTITLE": "按设备与流量选合适套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "按年付更省，流量套餐可选",
+          "AI_HIGHLIGHT_3": "客户端导入订阅即可使用",
+          "AI_PLANS_INTRO": "基础版每月100GB流量、3台设备；旗舰版每月300GB流量、5台设备并含IPLC专线；团队版每月1000GB流量、20台设备，均支持按年付。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量需求，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TEXT_2": "核对所选套餐的在线设备数、流量额度与订阅周期，确认与使用场景匹配。",
+          "AI_STEP_TEXT_3": "在对应设备客户端中导入订阅配置，按客户端说明完成连接设置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "tadm科学基地订阅套餐",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB、3台设备；旗舰版每月300GB、5台设备，含IPLC专线；团队版每月1000GB、20台设备，支持企业定制路由。",
+          "AI_FAQ_ANSWER_2": "基础版和旗舰版年付分别为150元和350元，团队版年付850元，相比月付均有一定节省。",
+          "AI_FAQ_ANSWER_3": "在客户端内找到订阅导入功能，粘贴购买后获得的订阅链接，更新节点列表即可。具体步骤以对应客户端的文档说明为准。",
+          "AI_FAQ_ANSWER_4": "打开套餐对比选择适合档位，完成支付后在账户内复制订阅链接，再到客户端配置。",
+          "AI_FAQ_ANSWER_5": "旗舰版有IPLC专线游戏加速优化，适合对延迟敏感的场景；普通流媒体需求选择基础版即可。",
+          "AI_FAQ_INTRO": "订阅导入、设备数量与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版有什么区别？",
+          "AI_FAQ_QUESTION_2": "按年付和按月付价格相差多少？",
+          "AI_FAQ_QUESTION_3": "订阅链接如何导入到客户端？",
+          "AI_FAQ_QUESTION_4": "如何购买并开始使用tadm科学基地？",
+          "AI_FAQ_QUESTION_5": "旗舰版的IPLC专线适合什么场景？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "o0lzih.cn",
+    "host": "o0lzih.cn"
+  },
+  "file_hashes": {
+    "index.html": "4ade7058e5ff79cbb77bfa8eb786263c0899ca08e6809b48dc4600e05f0df25e",
+    "sitemap.xml": "3d68aa1c1913bada7ff36493dbe1841c19d5e4b79ed8c28ef2440dfbd4aefe12",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f6977c4ca3f4038f290a72f11495f4d2eeabde37bbc980b82b990adb7947e5ab",
+    "robots.txt": "9054085572a861fe9588821a4bc1dca9030bfc20258ab24ef8401fc9d1c18454",
+    "89d643dc3234f4e1ec05cbace220f053.txt": "94c4ffb3b766b0ae11ccf4b5e9dd87e94620224b81fa98c66d8737bda54d851c"
+  },
+  "revision": "40abea7e178a7edddcd90335bf3989d55db1e326e1a20ad244eb963f985a85ac"
+}
